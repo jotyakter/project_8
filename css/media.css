@@ -1,0 +1,91 @@
+/* media query */
+
+/* mobile device */
+
+@media (min-width: 320px) and (max-width:500px) {
+    .menu ul{
+        list-style: none;
+        text-align: right;
+        margin-top: -20px;
+    }
+    
+    .menu ul li{
+        display: inline-block;
+        margin-right: 5px;
+    }
+    
+    .menu ul li a{
+        color: #fff;
+        font-size: 13px;
+    }
+    .header-content h1{
+        text-align: center;
+        color: #fff;
+        font-size: 30px;
+        margin-bottom: 40px;
+    }
+    .header-content p{
+        color: #fff;
+        padding: 40px 19px;
+        text-align: center;
+    }
+    .sec-one-p1 h2{
+        font-size: 21px;
+        text-align: center;
+    }
+    .sec-one-p1 span{
+        border-bottom: 2px solid #ef4035;
+        display: block;
+        margin: 0 auto;
+        width: 209px;
+    }
+    .sec-one-p1 p{
+        font-size: 15px;
+        padding: 20px 10px 0px 10px;
+        text-align: justify;
+    }
+    .sec-one-p1 h1{
+        color: #ef4035;
+        font-size: 15px;
+        padding-left: 10px;
+        margin-bottom: 45px;
+    }
+    .sec-one-p2 img{
+        width: 300px;
+        margin: 0 auto;
+        display: block;
+    }
+    .sec-two-p1 p{
+        text-align: justify;
+        padding: 50px 15px;
+    }
+
+    .sec-two-p2 img{
+        display: block;
+        margin: 0 auto 25px auto;
+    }
+}
+
+/* small device */
+
+@media (min-width: 501px) and (max-width:768px) {
+
+}
+
+/* medium device */
+
+@media (min-width: 768.1px) and (max-width: 992px) {
+
+}
+
+/* desktop device */
+
+@media (min-width: 992.1px) and (max-width: 1200px) {
+
+}
+
+/* large device */
+
+@media (min-width: 1200.1px) {
+    
+}

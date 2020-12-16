@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    float: left;
+    background: url(../img/background_header.png) no-repeat;
+    background-size: cover;
+    padding: 25px 0px;
+}
+
+.logo{
+
+}
+
+.logo img{
+
+}
+
+.menu{
+
+}
+
+.menu ul{
+    list-style: none;
+    text-align: right;
+}
+
+.menu ul li{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.menu ul li a{
+    color: #fff;
+    font-size: 19px;
+}
+
+.header-content{
+    padding: 220px 0px;
+}
+
+.header-content h1{
+    text-align: center;
+    color: #fff;
+    font-size: 46px;
+    margin-bottom: 40px;
+}
+
+.header-content span{
+    border-bottom: 2px solid #ef4035;
+    display: block;
+    width: 209px;
+    margin: 0 auto;
+}
+
+.header-content p{
+    color: #fff;
+    padding: 40px 125px;
+    text-align: center;
+}
+
+.btn-one{
+    background: #ef4035;
+    color: #fff;
+    padding: 10px 20px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 16px;
+    border: none;
+}
+/* section one start */
+.sec-one{
+    width: 100%;
+    float: left;
+    background: #F4F4F4;
+    padding: 25px 0px;
+}
+
+.sec-one-p1{
+
+}
+
+.sec-one-p1 h2{
+    font-size: 38px;
+}
+
+.sec-one-p1 span{
+    border-bottom: 2px solid #ef4035;
+    display: block;
+    width: 209px;
+}
+
+.sec-one-p1 p{
+    font-size: 15px;
+    padding: 20px 100px 20px 0px;
+    text-align: justify;
+}
+
+.sec-one-p1 h1{
+    color: #ef4035;
+    font-size: 15px;
+}
+
+.sec-one-p2{
+
+}
+
+.sec-one-p2 img{
+    width: 712px;
+    margin: 0 auto;
+    display: block;
+}
+/* section one complete */
+
+/* section two start */
+.sec-two{
+    width: 100%;
+    float: left;
+    padding: 100px 0px;
+}
+
+.sec-two-p1{
+
+}
+
+.sec-two-p1 h1{
+    color: #5a5a5a;
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 38px;
+}
+
+.sec-two-p1 span{
+    border-bottom: 2px solid #ef4035;
+    display: block;
+    margin: 0 auto;
+    width: 215px;
+}
+
+.sec-two-p1 p{
+    text-align: center;
+    padding: 50px 160px;
+}
+
+.sec-two-p2 img{
+    
+}
